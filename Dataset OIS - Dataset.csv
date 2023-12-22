@@ -1,0 +1,67 @@
+Participant,Geslacht,Leeftijd,Opleiding,Tijdsduur B,Tijdsduur T,Fouten B,Fouten T,Type test,Gem-HR B,Min-HR B,Max-HR B,Gem-HR T,Min-HR T,Max-HR T,Opmerkingen
+1,Man,19,WO,97,92,0,2,VR,86,74,102,99,88,109,Ging veel sneller bij tijdsdruk
+2,Man,20,WO,87,88,2,1,Laptop,67,60,70,72,66,79,Redelijk constant bij baseline en tijdsdruk
+3,Man,20,WO,105,98,2,2,Laptop,60,53,64,69,65,75,"Bij tijdsdruk wat meer gespannen, sneller praten"
+4,Vrouw,23,WO,133,130,2,1,Laptop,78,73,87,77,71,85,Al een beetje stress bij baseline en tijdsdruk was redelijk vergelijkbaar
+5,Vrouw,20,WO,102,96,0,1,Laptop,84,81,87,80,75,92,"Redelijk ontspannen bij beide tests, met tijdsdruk wel minder opspannen dan baseline"
+6,Man,20,WO,113,110,2,7,Laptop,78,75,82,80,66,98,"Redelijk gelijk, wel meer fouten bij tijdsdruk"
+7,Man,19,WO,132,126,3,4,Laptop,76,64,87,83,77,91,"Iets meer fout wel redelijk constant, was veel meer gefocust met tijdsdruk"
+8,Man,19,WO,73,116,0,4,Laptop,95,90,99,99,93,106,"Speedrun man, met tijdsdruk meer gespannen, minder focus en meer fouten"
+9,Vrouw,18,WO,103,116,0,2,Laptop,74,60,88,75,66,89,"Was een beetje zenuwachtig, met tijdsdruk was ze nog meer zenuwachtig/gespannen"
+10,Man,26,WO,86,99,1,3,Laptop,111,104,118,115,106,119,"Heeft net gesport, focus verloren met tijdsdruk"
+11,Man,25,WO,108,105,3,1,Laptop,91,74,100,97,93,101,"Koele kikker, meer focus tijdens tijdsdruk"
+12,Vrouw,18,WO,98,100,1,2,Laptop,71,60,89,76,68,88,"Tijdsdruk had niet veel effect, ook lichaamstaal bleef grotendeels hetzelfde"
+13,Man,25,WO,90,81,0,0,Laptop,105,90,117,118,109,123,"Heeft net gesport, met tijdsdruk meer focus"
+14,Vrouw,19,WO,116,121,0,1,VR,67,61,75,71,65,79,Ervaarde een zekere mate van tijdsdruk in lichaamstaal
+15,Man,20,WO,78,72,0,0,VR,76,68,83,83,76,91,Ging een stuk sneller met tijdsdruk
+16,Vrouw,21,WO,106,100,0,2,VR,73,65,79,76,71,87,"Ging sneller bij tijdsdruk, maar maakte wel meer fouten"
+17,Vrouw,18,MBO,128,131,4,4,VR,63,59,70,65,58,75,Had meer moeite met onder de knie krijgen besturing in VR
+18,Man,21,MBO,110,117,3,5,VR,74,69,81,73,64,81,"Ging zowel langzamer bij tijdsdru, als maakte meer fouten"
+19,Vrouw,21,WO,95,92,1,0,VR,67,61,75,72,63,77,Ging bij tijdsdruk beter op alle fronten
+20,Man,19,WO,84,82,1,2,VR,76,70,86,83,74,89,"Iets sneller bij tijdsdruk, maar wel een fout meer"
+21,Man,20,WO,72,74,0,2,Laptop,72,65,80,80,67,85,"Ging bij beide bijna gelijk, tijdsdruk had geen invloed, zat volledig in de flow"
+22,Man,22,WO,93,104,1,1,VR,72,66,78,74,71,79,"Tijdens tijdsdruk meer gespannen, beetje stotteren"
+23,Vrouw,19,WO,112,95,1,4,VR,84,74,91,87,75,92,"Met tijdsdruk ging alles veel sneller, baseline was echt even inkomen"
+24,Vrouw,20,WO,79,82,0,3,VR,122,107,131,113,105,122,"Was best bespannen maar was wel vrij snel, door tijdsdruk maakte ze iets meer foutjes"
+25,Man,22,WO,119,113,1,2,VR,73,69,80,80,66,90,"Was vrij gespannen, hield de hele tijd met zn vrije hand de vr bril vast"
+26,Man,21,WO,122,115,0,0,VR,81,73,95,93,82,103,"Deed alles heel controleerd, langzamer maar geen fouten, door tijdsdruk wel sneller dan zonder"
+27,Man,21,WO,118,109,0,0,Laptop,78,74,82,81,69,85,"Was relaxed, daardoor geen fouten gemaakt, was wel echt sneller bezig tijdens tijdsdruk"
+28,Man,26,WO,125,121,3,3,Laptop,69,62,73,75,63,79,
+29,Vrouw,21,WO,86,91,3,2,Laptop,75,65,79,84,75,92,
+30,Vrouw,22,WO,116,110,1,1,Laptop,81,73,88,86,78,96,
+31,Man,20,WO,110,108,4,2,VR,74,65,80,78,73,85,
+32,Vrouw,19,WO,91,87,2,4,VR,70,61,83,76,68,81,
+33,Man,20,WO,105,114,1,3,VR,86,82,97,88,83,96,
+34,Vrouw,18,WO,113,121,0,2,VR,79,69,83,87,82,102,
+35,Vrouw,21,WO,122,116,1,2,VR,93,86,101,99,96,107,
+36,Man,20,WO,86,91,0,4,Laptop,86,78,91,90,86,98,
+37,Man,19,WO,80,83,2,1,Laptop,73,61,77,75,68,81,
+38,Man,21,WO,94,91,0,3,Laptop,67,62,76,70,65,78,
+39,Vrouw,22,WO,118,112,1,2,Laptop,81,74,86,79,71,83,
+40,Man,19,WO,102,95,0,3,Laptop,101,95,114,109,102,121,
+41,Vrouw,20,WO,89,94,2,4,Laptop,84,79,90,89,85,93,
+42,Vrouw,23,WO,97,104,0,0,VR,91,85,95,97,92,104,
+43,Vrouw,20,WO,113,108,0,1,VR,104,97,111,109,102,119,
+44,Man,21,WO,106,114,2,1,VR,68,62,73,77,67,86,
+45,Vrouw,19,WO,115,107,0,2,VR,82,77,84,91,87,100,
+46,Man,19,WO,109,91,1,0,VR,112,97,129,130,125,136,
+47,Vrouw,21,WO,93,94,0,1,Laptop,87,83,95,91,84,98,
+48,Man,20,WO,87,90,2,3,Laptop,75,68,82,73,66,81,
+49,Man,20,MBO,79,86,2,1,Laptop,81,74,84,84,75,90,
+50,Man,21,MBO,96,94,3,2,Laptop,68,63,74,75,68,79,
+51,Man,18,MBO,108,106,1,2,Laptop,76,71,87,73,67,80,
+52,Vrouw,19,MBO,101,104,2,0,VR,70,63,75,79,72,84,
+53,Man,19,WO,86,89,1,3,VR,82,76,88,86,79,93,
+54,Man,23,WO,113,98,0,1,VR,85,81,91,80,76,87,
+55,Vrouw,21,WO,93,90,2,2,VR,74,70,79,78,71,86,
+56,Man,20,HBO,121,114,0,3,VR,98,87,108,104,95,112,
+57,Vrouw,20,WO,89,84,0,2,Laptop,76,69,82,74,67,82,
+58,Vrouw,23,WO,96,102,1,2,Laptop,83,77,89,85,80,93,
+59,Man,24,WO,105,100,0,0,Laptop,87,82,96,84,79,91,
+60,Man,20,HBO,117,114,2,1,Laptop,74,67,78,78,71,85,
+61,Man,19,HBO,112,117,0,3,Laptop,92,83,103,97,88,104,
+62,Man,22,MBO,98,113,1,0,VR,67,62,76,71,65,78,
+63,Vrouw,19,MBO,103,94,3,2,VR,85,74,93,88,82,96,
+64,Man,21,MBO,112,107,0,3,VR,73,67,81,76,70,79,
+65,Vrouw,21,MBO,104,96,2,2,VR,90,83,102,92,86,97,
+66,Vrouw,20,HBO,95,87,0,1,VR,71,65,76,78,73,85,
